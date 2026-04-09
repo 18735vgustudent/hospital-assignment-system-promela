@@ -1,0 +1,6 @@
+pan
+pan.*
+*.trail
+*.tmp
+*.out
+*.log
